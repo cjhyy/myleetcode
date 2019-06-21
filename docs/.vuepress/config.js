@@ -1,6 +1,6 @@
 module.exports = {
     title: 'LeetCode题解',
-    description: '记录自己的LeetCode题解',
+    description: '记录我的LeetCode题解',
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }], // 增加一个自定义的 favicon(网页标签的图标)
     ],
@@ -10,8 +10,14 @@ module.exports = {
     themeConfig: {
         sidebar: 'auto',
         nav: [
-            { text: '前端', link: '/' },
-            { text: '算法', link: '/guide/' },
+            { text: '前端', link: 'https://github.com/OBKoro1' },
+            {
+                text: '算法',
+                items: [
+                    { text: '算法与数据结构', link: 'https://github.com/OBKoro1' },
+                    { text: 'leetcode题解', link: '/' }
+                ]
+            },
             {
                 text: '学习笔记',
                 items: [
@@ -37,16 +43,20 @@ module.exports = {
             { text: 'Github', link: 'https://github.com/cjhyy' },
         ],
         sidebar: [{
-                title: '入门',
+                title: '简单',
                 collapsable: false,
                 children: [
-                    '/leetcode/',
+                    'leetcode/',
                     'get-started/',
                 ]
             },
             {
-                title: '组件',
-                children: ['/components/button']
+                title: '中等',
+                children: ['/components/']
+            },
+            {
+                title: '困难',
+                children: ['/components/']
             }
         ]
 
