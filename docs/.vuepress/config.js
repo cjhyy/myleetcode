@@ -46,17 +46,17 @@ module.exports = {
                 title: '简单',
                 collapsable: false,
                 children: [
-                    'leetcode/',
-                    'get-started/',
+                    '/leetcode/1',
+                    '/leetcode/2',
                 ]
             },
             {
                 title: '中等',
-                children: ['/components/']
+                children: ['']
             },
             {
                 title: '困难',
-                children: ['/components/']
+                children: ['']
             }
         ]
 

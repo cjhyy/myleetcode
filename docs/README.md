@@ -3,8 +3,8 @@ home: true
 lang: zh-CN
 heroText: maki maki的leetcode题解
 heroImage: /logo.jpg
-actionText: 开始 →
-actionLink: /leetcode/
+actionText: 开始
+actionLink: /leetcode/1
 features:
 - title: 
   details: 春江潮水连海平，海上明月共潮生。
