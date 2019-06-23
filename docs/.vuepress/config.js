@@ -49,11 +49,11 @@ module.exports = {
         ],
         sidebar: [{
                 title: '简单',
-                collapsable: false,
+
                 children: [
                     '/leetcode1/1',
                     '/leetcode1/7',
-                    // '/leetcode1/9',
+                    '/leetcode1/9',
                 ]
             },
             {
@@ -61,9 +61,9 @@ module.exports = {
                 children: [
                     '/leetcode1/2',
                     '/leetcode1/3',
-                    // '/leetcode1/5',
-                    // '/leetcode1/6',
-                    // '/leetcode1/8',
+                    '/leetcode1/5',
+                    '/leetcode1/6',
+                    '/leetcode1/8',
                 ]
             },
             {
