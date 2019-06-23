@@ -1,6 +1,7 @@
 module.exports = {
     title: 'LeetCode题解',
     description: '记录我的LeetCode题解',
+    base: '/myleetcode/',
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }], // 增加一个自定义的 favicon(网页标签的图标)
     ],
