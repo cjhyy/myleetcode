@@ -12,7 +12,7 @@ module.exports = {
         sidebar: 'auto',
         lastUpdated: '最后更新时间',
         // 2.设置true，开启最后更新时间
-        lastUpdated: true,        
+        lastUpdated: true,
         nav: [
             { text: '前端', link: 'https://github.com/OBKoro1' },
             {
@@ -22,7 +22,7 @@ module.exports = {
                     { text: 'leetcode题解', link: '/' }
                 ]
             },
-     
+
             {
                 text: '学习笔记',
                 items: [
@@ -51,20 +51,26 @@ module.exports = {
                 title: '简单',
                 collapsable: false,
                 children: [
-                    '/leetcode/1',
-                    '/leetcode/2',
-                    '/leetcode/3',
-                    '/leetcode/4',
-                    '/leetcode/7',
+                    '/leetcode1/1',
+                    '/leetcode1/7',
+                    // '/leetcode1/9',
                 ]
             },
             {
                 title: '中等',
-                children: ['']
+                children: [
+                    '/leetcode1/2',
+                    '/leetcode1/3',
+                    // '/leetcode1/5',
+                    // '/leetcode1/6',
+                    // '/leetcode1/8',
+                ]
             },
             {
                 title: '困难',
-                children: ['']
+                children: [
+                    '/leetcode1/4',
+                ]
             }
         ]
 
