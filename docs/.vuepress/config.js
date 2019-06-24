@@ -14,11 +14,11 @@ module.exports = {
         // 2.设置true，开启最后更新时间
         lastUpdated: true,
         nav: [
-            { text: '前端', link: 'https://github.com/OBKoro1' },
+            { text: '前端', link: 'https://cjhyy.github.io/Prebook/' },
             {
                 text: '算法',
                 items: [
-                    { text: '算法与数据结构', link: 'https://github.com/OBKoro1' },
+                    { text: '算法与数据结构', link: 'https://github.com/cjhyy' },
                     { text: 'leetcode题解', link: '/' }
                 ]
             },
@@ -26,22 +26,22 @@ module.exports = {
             {
                 text: '学习笔记',
                 items: [
-                    { text: '数学', link: 'https://github.com/OBKoro1' },
+                    { text: '数学', link: 'https://github.com/cjhyy' },
                     {
                         text: '计算机',
-                        link: 'https://github.com/OBKoro1/Brush_algorithm'
+                        link: 'https://github.com/cjhyy'
                     },
                     {
                         text: '英语',
-                        link: 'https://github.com/OBKoro1/Brush_algorithm'
+                        link: 'https://github.com/cjhyy'
                     },
                     {
                         text: '日语',
-                        link: 'https://github.com/OBKoro1/Brush_algorithm'
+                        link: 'https://github.com/cjhyy'
                     },
                     {
                         text: '其他',
-                        link: 'https://github.com/OBKoro1/Brush_algorithm'
+                        link: 'https://github.com/cjhyy'
                     },
                 ]
             },
