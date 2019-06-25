@@ -54,6 +54,14 @@ module.exports = {
                     '/leetcode1/1',
                     '/leetcode1/7',
                     '/leetcode1/9',
+                    '/leetcode1/13',
+                    '/leetcode1/14',
+                    '/leetcode1/20',
+                    '/leetcode1/21',
+                    '/leetcode1/26',
+                    '/leetcode1/27',
+                    '/leetcode1/28',
+                    '/leetcode1/35',
                 ]
             },
             {
@@ -64,12 +72,30 @@ module.exports = {
                     '/leetcode1/5',
                     '/leetcode1/6',
                     '/leetcode1/8',
+                    '/leetcode1/11',
+                    '/leetcode1/12',
+                    '/leetcode1/15',
+                    '/leetcode1/16',
+                    '/leetcode1/17',
+                    '/leetcode1/18',
+                    '/leetcode1/19',
+                    '/leetcode1/22',
+                    '/leetcode1/24',
+                    '/leetcode1/29',
+                    '/leetcode1/31',
+                    '/leetcode1/33',
+                    '/leetcode1/34',
                 ]
             },
             {
                 title: '困难',
                 children: [
                     '/leetcode1/4',
+                    '/leetcode1/10',
+                    '/leetcode1/23',
+                    '/leetcode1/25',
+                    '/leetcode1/30',
+                    '/leetcode1/32',
                 ]
             }
         ]
